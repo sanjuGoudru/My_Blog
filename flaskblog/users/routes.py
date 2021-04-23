@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 19 18:11:49 2021
+
+@author: Sanjay G R
+"""
 
 from flask import render_template,url_for,flash,redirect, request
 from flaskblog.users.forms import (RegistrationForm, 

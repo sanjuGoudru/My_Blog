@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 19 18:11:49 2021
 
-@author: win10
+@author: Sanjay G R
 """
 
 from flaskblog import create_app
