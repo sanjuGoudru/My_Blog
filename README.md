@@ -42,7 +42,8 @@ python run.py
 </ul>
 
 ## Deployment
-I have done deployment on Heroku cloud (free version). But one can deploy on any cloud. All the required packages are mentioned in 'requirements.txt' file.
+I have done deployment on [Heroku cloud](https://my-blogposts.herokuapp.com/). But one can deploy on any cloud. All the required packages are mentioned in 'requirements.txt' file.
+
 
 ## Acknowledgment
 Idea for this flask project goes to youtuber [Corey Schafer](https://www.youtube.com/user/schafer5) who has helped people like me and many others for learning python and other python related packages. 
